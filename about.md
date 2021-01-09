@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About this website
----
+title: About
+feature_image: ''
+feature_text: ''
+aside: false
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+---
+Creator and web designer at Nixie Creative Web Design and Services. Taz is a multidisciplinary artist, DIY enthusiast, gardener and cat lover. They pronouns.
